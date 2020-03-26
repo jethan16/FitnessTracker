@@ -8,4 +8,4 @@ This application allows a user to add workouts to a plan and view their progress
 
 
 ### Statistics Dashboard
-![]()
+![](images/fitnesstrackerstats.png)
